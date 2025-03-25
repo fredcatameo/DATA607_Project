@@ -178,3 +178,8 @@ bin/*
 etc/*
 share/*
 pyvenv.cfg
+*.env
+
+
+Reviews_Summarization_Task/t5_finetuning_record/*
+Reviews_Summarization_Task/t5_AirlineReviews_summary_model/*

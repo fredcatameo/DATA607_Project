@@ -183,3 +183,6 @@ pyvenv.cfg
 
 Reviews_Summarization_Task/t5_finetuning_record/*
 Reviews_Summarization_Task/t5_AirlineReviews_summary_model/*
+Reviews_Summarization_Task/data/*
+Reviews_Summarization_Task/t5_finetuning_record.zip
+.DS_Store
